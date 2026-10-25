@@ -1,6 +1,6 @@
 # disk-scanner · Windows 磁盘空间侦探
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE) ![ZCode Skill](https://img.shields.io/badge/AI-ZCode_Skill-purple)
+[![CI](https://github.com/wdfdsyhb/disk-scanner/actions/workflows/lint.yml/badge.svg)](https://github.com/wdfdsyhb/disk-scanner/actions/workflows/lint.yml) [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE) ![ZCode Skill](https://img.shields.io/badge/AI-ZCode_Skill-purple)
 
 > 对 agent 说一句「扫描C盘」，它跑 4 个脚本回你：顶层目录大小排名、垃圾文件候选（Temp/缓存/安装残留）、游戏占用定位，最后按白名单安全清理。
 >
