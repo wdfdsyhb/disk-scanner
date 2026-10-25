@@ -1,6 +1,10 @@
-# disk-scanner
+# disk-scanner · Windows 磁盘空间侦探
 
-Windows 磁盘空间扫描 **Agent 技能**：文件夹大小分析、文件类型分布、大文件定位、游戏/清理扫描。
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE) ![ZCode Skill](https://img.shields.io/badge/AI-ZCode_Skill-purple)
+
+> 对 agent 说一句「扫描C盘」，它跑 4 个脚本回你：顶层目录大小排名、垃圾文件候选（Temp/缓存/安装残留）、游戏占用定位，最后按白名单安全清理。
+>
+> English: Ask once and the agent maps your disk — top folder sizes, junk candidates, game installs — then cleans with a whitelist.
 
 ## 安装
 
@@ -28,3 +32,9 @@ NTFS junction 会被 `os.walk` 跟随（`followlinks=False` 挡不住 Windows ju
 ## License
 
 MIT
+
+---
+
+## English
+
+Full English documentation: [README_EN.md](README_EN.md)
