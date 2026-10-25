@@ -1,6 +1,6 @@
 # disk-scanner · Windows Disk Space Detective
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE) ![ZCode Skill](https://img.shields.io/badge/AI-ZCode_Skill-purple)
+[![CI](https://github.com/wdfdsyhb/disk-scanner/actions/workflows/lint.yml/badge.svg)](https://github.com/wdfdsyhb/disk-scanner/actions/workflows/lint.yml) [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE) ![ZCode Skill](https://img.shields.io/badge/AI-ZCode_Skill-purple)
 
 > Ask once and the agent maps your disk — top folder sizes, junk candidates, game installs — then cleans with a whitelist.
 
